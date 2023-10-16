@@ -1,4 +1,4 @@
-# MY.RentACar
+# RentACar Application
 Mini Car Rental Project (.Net Core 6)
 
   <tr>
