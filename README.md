@@ -2,7 +2,7 @@
 Mini Car Rental Project (.Net Core 6)
 
   <tr>
-    <th>KULLANILAN TEKNOLOJİLER</th>
+    <th>USED ​​TECHNOLOGIES</th>
   </tr>
   <tr>
     <td>
@@ -17,7 +17,7 @@ Mini Car Rental Project (.Net Core 6)
         </ul>
     </td>
     <tr>
-    <th>KULLANILAN TEKNİKLER</th>
+    <th>USED ​​TECHNOLOGIES</th>
   </tr>
    <tr>
     <td>
